@@ -37,7 +37,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 0000000F
 ```
 
-<img src="img/welt.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/welt.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Idea
 ```
@@ -47,7 +47,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 0000000F
 ```
 
-<img src="img/idea.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/idea.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Einsatz
 ```
@@ -57,7 +57,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 0000000D
 ```
 
-<img src="img/einsatz.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/einsatz.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Jadis
 ```
@@ -67,7 +67,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 0000000D
 ```
 
-<img src="img/jadis.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/jadis.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Millers
 ```
@@ -77,7 +77,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 00000011
 ```
 
-<img src="img/millers.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/millers.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Cadenza
 ```
@@ -87,7 +87,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 00000011
 ```
 
-<img src="img/cadenza.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/cadenza.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Forte
 ```
@@ -97,7 +97,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 00000010
 ```
 
-<img src="img/forte.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/forte.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ### Granada
 ```
@@ -107,7 +107,7 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 220FDC29 0000000D
 ```
 
-<img src="img/granada.png" style="display: block; margin: 0 auto; width:15%"></img>
+<img src="img/granada.png" style="display: block; margin: 0 auto; width:30%"></img>
 
 ## Character change
 
@@ -158,11 +158,12 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
     - 6: somas
 
 Examples: 
-<img src="img/class_bytes.png" style="display: block; margin: 0 auto; width:40%"></img>
+
+<img src="img/class_bytes.png" style="display: block; margin: 0 auto; width:80%"></img>
 Value 49 in hex -> 0x31 -> rank 3, class 1 (battlers)
 
 
-<img src="img/class_bytes2.png" style="display: block; margin: 0 auto; width:40%"></img>
+<img src="img/class_bytes2.png" style="display: block; margin: 0 auto; width:80%"></img>
 Value 70 in hex -> 0x46 -> rank 4, class 6 (somas)
 
 0x2116078 -> Changes automatically on load save data (indicates class too).
