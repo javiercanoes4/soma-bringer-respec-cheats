@@ -27,9 +27,11 @@ CP Formula -> `CP = 3 * (CURRENT_LVL - 1) + 7 + 5 + 5`
 ```
 AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT_LVL - 1) + BONUS`
 
+
+- Set initial stats (every address contains a byte for each stat.)
+
 ### Welt
 
-(Every address contains a byte for each stat.)
 ```
 220FDC26 0000000F
 220FDC27 0000000E
