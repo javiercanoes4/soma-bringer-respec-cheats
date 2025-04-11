@@ -160,10 +160,12 @@ AP Formula (adding BONUS extra points for chapter bonuses) -> `AP = 3 * (CURRENT
 Examples: 
 
 <img src="img/class_bytes.png" style="display: block; margin: 0 auto; width:80%"></img>
+
 Value 49 in hex -> 0x31 -> rank 3, class 1 (battlers)
 
 
 <img src="img/class_bytes2.png" style="display: block; margin: 0 auto; width:80%"></img>
+
 Value 70 in hex -> 0x46 -> rank 4, class 6 (somas)
 
 0x2116078 -> Changes automatically on load save data (indicates class too).
